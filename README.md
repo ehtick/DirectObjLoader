@@ -40,6 +40,12 @@ Release 2015.0.0.17 improved error handling on degenerate faces:
 ![Image](img/high_ball_glass.png)
 
 
+TessellatedShapeBuilder Creates a Mesh with Slits
+---------
+
+In case of slits between faces with more than 3 vertices, please refer to this solution:
+[TessellatedShapeBuilder creates a mesh with slits](https://forums.autodesk.com/t5/revit-api-forum/tessellatedshapebuilder-creates-a-mesh-with-slits/td-p/12641002).
+
 Wish List
 ---------
 
